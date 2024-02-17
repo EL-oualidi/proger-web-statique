@@ -1,0 +1,81 @@
+.navbar-brand{
+  font-size: 2rem;
+  color: black;
+  font-family: "DietDidot";
+}
+
+.navbar-brand:hover{
+  color: black;
+
+}
+.collapse ul li a:hover{
+  color: #ff7800;
+  scale: 2px;
+}
+
+.nav-link{
+  margin-right: 10px;
+  margin-left: 10px;
+  color: black;
+  text-transform: uppercase;
+}
+
+.nav-link:hover{
+  color: black;
+}
+
+.search{
+  height: 40px;
+  width: 80%;
+  border-radius: 60px;
+  outline: none;
+  border: 2px solid rgb(93, 91, 92);
+  padding-left: 15px;
+  margin-right: -35px;
+}
+.search:hover{
+  border: 2px solid #ff7800;
+}
+
+.btn0{
+  height: 40px;
+  width: 40%;
+  border-radius: 60px;
+  outline: none;
+  border: none;
+  background: rgb(81, 79, 79);
+  color: white;
+  font-weight: 700;
+}
+.btn0:hover{
+  color: aqua;
+  background-color: #ff7800;
+}
+.footer{
+  background-color: rgb(48, 0, 45);
+  color: white;
+}
+
+.btn2{
+  width: 100px;
+  height: 45px;
+  background: white;
+  margin-left: -10px;
+  border: 2px solid white;
+  font-weight: 600;
+}
+
+.footer input{
+  width: 55%;
+  height: 45px;
+  border: 2px solid white;
+  outline: none;
+  color: white;
+  background: rgb(48, 0, 45);
+  margin-top: 20px;
+  font-weight: 600;
+}
+
+.footer p{
+  margin: 0;
+}
